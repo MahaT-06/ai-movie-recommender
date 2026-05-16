@@ -52,7 +52,7 @@ Ensure you have a Python environment or an Anaconda distribution installed.
    ```
 3. Install the necessary build dependencies:
    ```bash
-   pip install streamlit pandas scikit-learn requests urllib3
+   pip install -r requirements.txt
    ```
 4. Launch the web application server:
    ```bash
